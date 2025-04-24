@@ -7,7 +7,7 @@
 //      실수(float, double...)
 //      문자형(char) -> 문자열(string) 클래스
 //      bool(boolean) 1/0, true/false
-//      상수(const) 메롱
+//      상수(const) 메롱멍청이
 // ------------------------------------------------------------
 //      local, global, static variable
 //      사용자 정의 자료형 (전처리문과 함수 원형 사이에 선언)
